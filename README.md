@@ -9,5 +9,5 @@ dataframe with only train images and details.<br>
 - data agumentation: i have applied default agumentation from "albumentation lib" such as random rotation of +/- 45 deg. <br>
 - detection network used is "**RETINANET**" <br>
 - CNN architecture used is "**resnet50 pretrained**" <br>
-- deep learning engine used is **fastai** (https://www.fast.ai/) <br>
+- deep learning engine used is **fastai** (https://www.fast.ai/) & **Icevision** (https://airctic.com/0.11.0/) <br>
 - imp - there were some corrupt images i have mentioned them in the notebook. <br>
